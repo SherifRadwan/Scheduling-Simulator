@@ -1,2 +1,2 @@
 # Scheduling-Simulator
-A CPU sceduling simulaotr for different algorithms (FCFS, Round Robin...)
+A CPU sceduling simulator for different algorithms (FCFS, Round Robin...)
